@@ -50,7 +50,7 @@ These terms may be updated periodically. Continued use of VERA after an update t
 
 For support, contact us through the official VERA Discord support server.
 
-Support server: [[Add your Discord support invite link here](https://discord.gg/DbDYsSfbSR)]
+Support server: [[Join Vextron SUpport](https://discord.gg/DbDYsSfbSR)]
 
 By using VERA, you acknowledge these Terms of Service.
 
