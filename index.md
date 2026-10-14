@@ -28,7 +28,7 @@ VERA may process Discord user IDs, server IDs, command inputs, and settings as n
 
 Please publish a Privacy Policy describing the data VERA actually collects and how it is handled.
 
-Privacy Policy: [privacy.html]
+Privacy Policy: [Open VERA Privacy Policy](privacy.html)
 
 7. Third-Party Services
 
@@ -53,4 +53,4 @@ For support, contact us through the official VERA Discord support server.
 Support server: [Add your Discord support invite link here]
 
 By using VERA, you acknowledge these Terms of Service.
-[Open VERA Privacy Policy](privacy.html)
+
