@@ -28,7 +28,7 @@ VERA may process Discord user IDs, server IDs, command inputs, and settings as n
 
 Please publish a Privacy Policy describing the data VERA actually collects and how it is handled.
 
-Privacy Policy: [(https://shaynevibes.github.io/vera-terms/privacy.html)]
+Privacy Policy: [privacy.html]
 
 7. Third-Party Services
 
